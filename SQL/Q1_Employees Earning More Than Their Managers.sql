@@ -2,7 +2,7 @@
 Write a solution to find the employees who earn more than their managers.
 Return the result table in any order.
 Link:https://leetcode.com/problems/employees-earning-more-than-their-managers/
-The solution to problem is given solution 4 is the most optimzed solution
+The solution to problem is given solution 4 is the most optimizd solution queery of sql
  */
 /* Solution 1 */
 SELECT name AS Employee FROM Employee
